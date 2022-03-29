@@ -3,7 +3,7 @@
 ## I am Learning MERN Stack Developer.
 
 - 🔭 I’m currently working on projects.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m an aspiring MERN Stack Developer.
 - 👯 I’m looking to collaborate on a few open source projects built primarily in React, and Typescript
 - 🤔 I’m looking for help with 
 - 💬 Ask me about  Javascript, React and React-native
