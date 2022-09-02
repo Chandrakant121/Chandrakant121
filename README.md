@@ -41,16 +41,28 @@
 <h3 align="center">GitHub Analytics: </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandrakant121&count_private=true&theme=algolia" alt="Chandrakant121's GitHub stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Chandrakant121&count_private=true&theme=algolia" alt="Chandrakant121's GitHub stats" /> -->
+  
+  
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-status.vercel.app/api?username=Chandrakant121&show_icons=true&locale=en" alt="Chandrakant121" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrakant121&" alt="Chandrakant121" /></p>
+
+  
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murali0101&show_icons=true&locale=en&layout=compact" alt="murali0101" /></p>
+
+  
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakant121&langs_count=8&theme=algolia" alt="Chandrakant121' GitHub stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakant121&langs_count=8&theme=algolia" alt="Chandrakant121' GitHub stats" /> -->
 </div>
-<br>
+
+<!-- <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrakant121" alt="Chandrakant121' GitHub stats" />
-</div>
+</div> -->
 
 
 
@@ -59,7 +71,7 @@
 <div align="center" display="flex">
   <a  href="https://www.linkedin.com/in/chandrakant-joshi/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a  href="mailto: csjoshi989@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!--   <a  href="https://github.com/aman-638" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> -->
+  <a  href="https://github.com/aman-638" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 
